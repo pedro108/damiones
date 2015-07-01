@@ -55,6 +55,7 @@
   da = da.replace(/ritículo/i, 'redículo')
   da = da.replace(/nele/i, 'neli')
   da = da.replace(/patoo/i, 'baduco')
+  da = da.replace(/mulher/i, 'molher')
 
   da
 
