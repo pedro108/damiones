@@ -50,7 +50,7 @@
   da = da.replace(/tápua/i, 'tauba')
   da = da.replace(/xeti/i, 'jandai')
   da = da.replace(/pathfinter/i, 'pétfinter')
-  da = da.replace(/ssantpoint/i, 'Savepoint')
+  da = da.replace(/ssantpoint/i, 'savepoint')
   da = da.replace(/maluko/i, 'maluvo')
   da = da.replace(/ritículo/i, 'redículo')
 
