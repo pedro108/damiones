@@ -30,7 +30,7 @@
   da = da.replace(/cr/gi, 'kr')
   da = da.replace(/cl/gi, 'kl')
 
-  da = da.replace(/qu/gi, 'k')
+  da = da.replace(/qu([^a])/gi, (m, g1) -> "k#{g1}")
   da = da.replace(/gue/gi, 'ke')
   da = da.replace(/gui/gi, 'ki')
 
