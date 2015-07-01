@@ -53,6 +53,7 @@
   da = da.replace(/ssantpoint/i, 'savepoint')
   da = da.replace(/maluko/i, 'maluvo')
   da = da.replace(/ritículo/i, 'redículo')
+  da = da.replace(/nele/i, 'neli')
 
   da
 
