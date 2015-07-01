@@ -14,6 +14,8 @@
   da = da.replace(/gi/gi, 'chi')
   da = da.replace(/gí/gi, 'chí')
 
+  da = da.replace(/gn/gi, 'kn')
+
   da = da.replace(/ce/gi, 'sse')
   da = da.replace(/cê/gi, 'ssê')
   da = da.replace(/cé/gi, 'ssé')
@@ -49,6 +51,8 @@
   da = da.replace(/xeti/i, 'jandai')
   da = da.replace(/pathfinter/i, 'pétfinter')
   da = da.replace(/ssantpoint/i, 'Savepoint')
+  da = da.replace(/maluko/i, 'maluvo')
+  da = da.replace(/ritículo/i, 'redículo')
 
   da
 
